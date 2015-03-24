@@ -1,0 +1,3 @@
+[submodule "jade-templating"]
+	path = jade-templating
+	url = https://github.com/mspcontent/jade-templating
