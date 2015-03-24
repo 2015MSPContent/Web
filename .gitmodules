@@ -4,3 +4,6 @@
 [submodule "Django-From-Azure"]
 	path = Django-From-Azure
 	url = https://github.com/mspcontent/Django-From-Azure
+[submodule "Azure-Mobile-Services-Labs"]
+	path = Azure-Mobile-Services-Labs
+	url = https://github.com/mspcontent/Azure-Mobile-Services-Labs
