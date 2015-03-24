@@ -1,3 +1,6 @@
 [submodule "jade-templating"]
 	path = jade-templating
 	url = https://github.com/mspcontent/jade-templating
+[submodule "Django-From-Azure"]
+	path = Django-From-Azure
+	url = https://github.com/mspcontent/Django-From-Azure
